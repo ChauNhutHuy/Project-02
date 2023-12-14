@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../Project-1"
+    },
+    {
+      "path": "C:/Users/Admin/Desktop/New folder"
+    },
+    {
+      "path": "../.."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Project-02"
+  }
+}
