@@ -8,9 +8,12 @@
     },
     {
       "path": "../.."
+    },
+    {
+      "path": "../../../Javacript-Lesson1"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "Project-02"
+    "liveServer.settings.multiRootWorkspaceName": "Javacript-Lesson1"
   }
 }
